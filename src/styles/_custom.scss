@@ -1,0 +1,48 @@
+// Here you can add other styles
+.flexbt{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.flexbt1{
+    display: flex;
+    align-items:flex-start;
+    justify-content:left;
+}
+
+.marginpx{
+    margin-left: 10px;
+}
+.marginl{
+    margin-left: 10rem;
+}
+
+.width5{
+    width: 50% !important;
+}
+
+.heightBarang{
+    width: 100%;
+}
+
+.heightTableb{
+    height: 20rem;
+    overflow-y: scroll;
+}
+
+.padL{
+    text-align: right;
+}
+
+.marginBt{
+    margin-left: 0.5rem;
+}
+
+.padC{
+    text-align: center;
+}
+
+.sizeL{
+    width: 98%;
+}
